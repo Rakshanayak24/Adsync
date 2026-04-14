@@ -168,6 +168,3 @@ The prompt explicitly prohibits invented company names, statistics, or real pers
 
 ---
 
-## License
-
-MIT
