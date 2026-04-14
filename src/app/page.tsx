@@ -186,7 +186,6 @@ export default function Home() {
           </div>
           <div className={styles.topbarRight}>
             <span className={styles.pill}>CRO · AI</span>
-            <span style={{fontSize:'11px',fontWeight:600,padding:'3px 10px',background:'rgba(34,197,94,.12)',border:'1px solid rgba(34,197,94,.3)',borderRadius:'4px',color:'#22C55E',letterSpacing:'.4px'}}>✓ Submitted — nj@troopod.io</span>
             <span className={styles.version}>v1.0</span>
           </div>
         </div>
